@@ -11,7 +11,7 @@ color:white;
     justify-content: space-between;
     align-items: center;
     background-color: black;
-    position:sticky;
+    position :sticky;
     top:0;
     
 }
@@ -80,12 +80,12 @@ button:hover{
 }
 #choose{
     justify-content: space-around;
+    text-align: center;
 }
-.why{
-    background-color: black;
-    margin : 0% 20%;
-    padding:50px 250px 20px 250px;
 
+
+.stat{
+    text-align: center;
 }
  .f{
     background-color: black;
@@ -114,11 +114,8 @@ p{
     padding:10px 60px;
 }
 
-#sthead{
-    background-color: black;
-    margin : 0% 20%;
-    padding:50px 252px 20px 320px;
-}
+
+
 .menu2{
     display:flex;
     justify-content:space-between;
@@ -127,10 +124,9 @@ p{
 .biryani:hover{
     transform:scale(1.1)
 }
-.birhead{
-     background-color: black;
-    margin : 0% 20%;
-    padding:50px 260px 20px 330px;
+.bir{
+text-align: center;
+
 }
 
 .add{
@@ -140,10 +136,8 @@ p{
 button{
     margin-left:40px;
 }
-#About{
-     background-color: black;
-    margin : 0% 20%;
-    padding:50px 260px 20px 320px;
+.ab{
+     text-align: center;
 
 }
 .about{
@@ -163,12 +157,10 @@ button{
     align-items: center;
     text-align: center;
 }
+
 .gt{
-     background-color: black;
-    margin : 0% 20%;
-    padding:50px 260px 20px 320px;
-    font-size:28px;
     color:orangered;
+    font-size: 30px;
 }
 .contact-info{
     align-items: center;
